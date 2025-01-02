@@ -1,0 +1,15 @@
+section{
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.sale-courses{
+    background-color: antiquewhite;
+    color: #333;
+}
+
+.teachers{
+    background-color: coral;
+    color: aliceblue;
+}
